@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Himanshu Raj",
+    "occupation": "Student at MAIT (Maharaja Agrasen Institute of Technology)",
+    "description": "I am currently pursuing  B.Tech from MAIT in Electronics & Communication Engineering and very passionate  for programming.",
+    "image": "mypic.jpg",
+    "bio": "My name is Himanshu Raj, I'm a Student at MAIT and currently pursuing  B.Tech from MAIT in Electronics & Communication Engineering",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "himanshu211raj@gmail.com",
+    "phone": "+91 9654518793",
+    "address": {
+      "street": "Mohan Garden",
+      "city": "Uttam Nagar",
+      "state": "New Delhi",
+      "zip": "110059"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1tbh7K7AKuHPv_8LyNKROqc1H4z8vFOfb/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/himanshuraj.0",
+        "className": "fa fa-facebook",
+        "target": "_blank"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/himanshu211raj/",
+        "className": "fa fa-linkedin",
+        "target": "_blank"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/himanshu211raj/",
+        "className": "fa fa-instagram",
+        "target": "_blank"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/himanshu211raj/",
+        "className": "fa fa-github",
+        "target": "_blank"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my skills mentioned below.",
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "degree": "Pursuing B.Tech in ECE",
+        "graduation": "In August 2023",
+        "description": "Currently in 2nd Year"
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      },{
+        "name": "C & Data Structure",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "A simple Login Form with ReactJS",
+        "category": "Login For Made with ReactJS",
+        "image": "login-form.png",
+        "url": "https://login-app-newsletter.netlify.app/"
+      },
+      {
+        "title": "Keeper Note APP (Similar to Google Keep Note)",
+        "category": "A Note Taking App created with ReactJS",
+        "image": "keeper-notes.png",
+        "url": "https://keep-notes-clone.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone with ReactJS & Firebase Database",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-clone.png",
+        "url": "https://clone-10fad.web.app/"
+      },
+      {
+        "title": "A To-do list App ",
+        "category": "A To-do List built with (Javascript ,Nodejs and MongoDB)",
+        "image": "To-Do-list-app.png ",
+        "url": "https://boiling-bayou-66384.herokuapp.com/"
+      },
+      {
+        "title": "A SignIn template Form For Newsletter Subscription",
+        "category": "Made with (Javascript ,Nodejs and Mailchimp Api)",
+        "image": "NewsLetter-signup.png",
+        "url": "https://frozen-brushlands-66013.herokuapp.com/"
+      },
+      {
+        "title": "A JavaScript Analog Clock",
+        "category": "Made with ( HTML ,CSS & Javascript)",
+        "image": "javascript-clock.png",
+        "url": "https://frozen-brushlands-66013.herokuapp.com/"
+      }
+    ]
+  }
+}
